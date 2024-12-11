@@ -18,12 +18,13 @@ Esse é um projeto back-end que descreve em detalhes imagens enviadas pelos usu�
 ## Exemplos - utilizando a ferramenta "curl"
 fazendo o registro o recebendo a API key por email:
 
-<img src="https://github.com/Emanoellima-dev/ANALISE-IMAGES-API/blob/main/imagens/Screenshot_20241211-102146-1.jpg" width="700" height="700"/>
+<img src="https://github.com/Emanoellima-dev/ANALISE-IMAGES-API/blob/main/imagens/Screenshot_20241211-102146-1.jpg" width="1000" height="1000"/>
 
 verifique se você digitou seu email corretamente para evitar falhas no envio da API key.
 
 após receber a API key você deve usa-la para fazer as requisições. veja no exemplo abaixo.
 vamos analisar essa imagem:
+
 <img src="https://github.com/Emanoellima-dev/ANALISE-IMAGES-API/blob/main/imagens/cld-sample-3.jpg" width="400"/>
 
 usando a API para analisar essa imagem:
