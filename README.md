@@ -27,11 +27,11 @@ vamos analisar essa imagem:
 <img src="https://github.com/Emanoellima-dev/ANALISE-IMAGES-API/blob/main/imagens/cld-sample-3.jpg" width="400"/>
 
 usando a API para analisar essa imagem:
-<img src="https://github.com/Emanoellima-dev/ANALISE-IMAGES-API/blob/main/imagens/Screenshot_20241211-102304-1.jpg" width="400"/>
+<img src="https://github.com/Emanoellima-dev/ANALISE-IMAGES-API/blob/main/imagens/Screenshot_20241211-102304-1.jpg" width="500"/>
 
 a resposta será:
 
-<img src"https://github.com/Emanoellima-dev/ANALISE-IMAGES-API/blob/main/imagens/Screenshot_20241211-102510-1.jpg" width="400"/>
+<img src="https://github.com/Emanoellima-dev/ANALISE-IMAGES-API/blob/main/imagens/Screenshot_20241211-102510-1.jpg" width="400"/>
 
 ## observações
 respeite o limite da API e não abuse do uso da API. o uso excessivo pode ultrapassar o limite de requisições a API. a API foi desenvolvida com o intuito de aprimorar meus conhecimentos sobre programação back-end e integrações com APIs externas. por isso não estou aceitando contribuições ao projeto.
