@@ -17,8 +17,8 @@ export const register = async (req, res) => {
   const hashedApiKey = await bcrypt.hash(apiKey, 10);
   const hashedPassword = await bcrypt.hash(senha, 10);
   
-  const user = await User.findOne({ where: { email: email } });
-  if(user) return res.status(409).json({ message: "usuário ja registrado!" });
+  /*const user = await User.findOne({ where: { email: email } });
+  if(user) return res.status(409).json({ message: "usuário ja registrado!" });*/
   
   await User.create({ nome, email, senha: hashedPassword, apiKey: hashedApiKey })
   await sendApiKey(email, apiKey)

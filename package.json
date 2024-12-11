@@ -24,7 +24,7 @@
   },
   "contributors": [],
   "scripts": {
-    "start": "node --watch --env-file=.env --no-deprecation server.js"
+    "start": "node --no-deprecation server.js"
   },
   "dependencies": {
     "axios": "^1.7.9",
