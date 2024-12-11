@@ -18,7 +18,7 @@ Esse é um projeto back-end que descreve em detalhes imagens enviadas pelos usu�
 ## Exemplos - utilizando a ferramenta "curl"
 fazendo o registro o recebendo a API key por email:
 
-<img src="https://github.com/Emanoellima-dev/ANALISE-IMAGES-API/blob/main/imagens/Screenshot_20241211-102146-1.jpg" width="700"/>
+<img src="https://github.com/Emanoellima-dev/ANALISE-IMAGES-API/blob/main/imagens/Screenshot_20241211-102146-1.jpg" width="700" height="700"/>
 
 verifique se você digitou seu email corretamente para evitar falhas no envio da API key.
 
